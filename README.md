@@ -20,6 +20,6 @@ I'm a recent CS graduate passionate about building software that makes a differe
 - 🔭 Currently looking for software engineering roles
 - 💻 Favorite tech: Java, React, Node.js
 - 🌱 Always learning new things and building side projects
-- 📫 How to reach me: ![LinkedIn](https://linkedin.com/in/annicamclean) & ![Email](https://annicamclean.github.io/contact.html)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/annicamclean) & [Email](https://annicamclean.github.io/contact.html)
 
-![Annica's GitHub stats](https://annicamclean.github.io/github.html)
+[Annica's GitHub stats](https://annicamclean.github.io/github.html)
