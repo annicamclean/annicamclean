@@ -22,4 +22,4 @@ I'm a recent CS graduate passionate about building software that makes a differe
 - 🌱 Always learning new things and building side projects
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/annicamclean) & [Email](https://annicamclean.github.io/contact.html)
 
-[Annica's GitHub stats](https://annicamclean.github.io/github.html)
+![Annica's GitHub stats]([https://annicamclean.github.io/github.html](https://github-readme-stats.vercel.app/api?username=annicamclean&show_icons=true&theme=radical))
